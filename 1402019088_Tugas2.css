@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-family: monospace;
+    color: azure;
+}
+h1{
+    font-family: fantasy;
+}
+
+.nav-item{
+    margin: 0 15px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.fa-users{
+    margin-right: 10px;
+}
+
+.sosial{
+    color: yellow;
+    margin-right: 30px;
+}
+
+.my{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.myd{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.foot{
+    height: 40px;
+}
+
+
+.gambar{
+    margin-left: 30px;
+}
+
+.body{
+  background-color: rgba(156, 156, 134, 0.404);
+}
